@@ -3,6 +3,8 @@
 An interactive platform designed to make coding simple, engaging, and project-driven for absolute beginners.  
 Built using no-code/low-code tools like **Glide**, the app focuses on **learning by doing**, guiding users to create functional projects from their own ideas.
 
+[![Watch the video](https://youtube.com/shorts/JF87n-6_PGw?si=5f9-mwPX3H96xp36)
+
 ---
 
 ## 🚀 Features
@@ -34,6 +36,5 @@ To empower beginners to turn ideas into functional projects **without the fear o
 ---
 
 ## 📬 Contact
-Created by [Your Name]  
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn Link]  
+Created by Fahad ip
+📧 Email: ipfahad46@gmail.com 
