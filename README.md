@@ -8,7 +8,9 @@ Built using no-code/low-code tools like **Glide**, the app focuses on **learning
 ##  Introduction Video  
 Watch this quick visual walkthrough:
 
-<iframe width="360" height="640" src="https://www.youtube.com/embed/JF87n-6_PGw" title="YouTube Shorts video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## 🎥 Introduction Video
+
+[![Watch the video](https://img.youtube.com/vi/JF87n-6_PGw/maxresdefault.jpg)](https://youtube.com/shorts/JF87n-6_PGw?si=5f9-mwPX3H96xp36)
 
 ---
 
